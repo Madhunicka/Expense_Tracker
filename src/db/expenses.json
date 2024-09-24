@@ -1,0 +1,17 @@
+{
+    "expenses": [
+      {
+        "description": "Lunch",
+        "amount": 15,
+        "category": "Food",
+        "date": "2024-09-20"
+      },
+      {
+        "description": "Taxi",
+        "amount": 25,
+        "category": "Transport",
+        "date": "2024-09-21"
+      }
+    ]
+  }
+  
